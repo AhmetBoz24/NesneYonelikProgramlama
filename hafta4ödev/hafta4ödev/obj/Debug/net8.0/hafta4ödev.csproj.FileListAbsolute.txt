@@ -1,0 +1,14 @@
+C:\Users\bozah\source\repos\hafta4ödev\hafta4ödev\bin\Debug\net8.0\hafta4ödev.exe
+C:\Users\bozah\source\repos\hafta4ödev\hafta4ödev\bin\Debug\net8.0\hafta4ödev.deps.json
+C:\Users\bozah\source\repos\hafta4ödev\hafta4ödev\bin\Debug\net8.0\hafta4ödev.runtimeconfig.json
+C:\Users\bozah\source\repos\hafta4ödev\hafta4ödev\bin\Debug\net8.0\hafta4ödev.dll
+C:\Users\bozah\source\repos\hafta4ödev\hafta4ödev\bin\Debug\net8.0\hafta4ödev.pdb
+C:\Users\bozah\source\repos\hafta4ödev\hafta4ödev\obj\Debug\net8.0\hafta4ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bozah\source\repos\hafta4ödev\hafta4ödev\obj\Debug\net8.0\hafta4ödev.AssemblyInfoInputs.cache
+C:\Users\bozah\source\repos\hafta4ödev\hafta4ödev\obj\Debug\net8.0\hafta4ödev.AssemblyInfo.cs
+C:\Users\bozah\source\repos\hafta4ödev\hafta4ödev\obj\Debug\net8.0\hafta4ödev.csproj.CoreCompileInputs.cache
+C:\Users\bozah\source\repos\hafta4ödev\hafta4ödev\obj\Debug\net8.0\hafta4ödev.dll
+C:\Users\bozah\source\repos\hafta4ödev\hafta4ödev\obj\Debug\net8.0\refint\hafta4ödev.dll
+C:\Users\bozah\source\repos\hafta4ödev\hafta4ödev\obj\Debug\net8.0\hafta4ödev.pdb
+C:\Users\bozah\source\repos\hafta4ödev\hafta4ödev\obj\Debug\net8.0\hafta4ödev.genruntimeconfig.cache
+C:\Users\bozah\source\repos\hafta4ödev\hafta4ödev\obj\Debug\net8.0\ref\hafta4ödev.dll
